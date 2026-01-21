@@ -1,31 +1,17 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
-/* Main Container */
-.testimonial-container {
+.container {
+    padding: 10px;
     background-color: #f5f5f5;
-    padding: 30px;
 }
 
-/* Individual Testimonial Box */
 .testimonial {
-    background-color: #ffffff;
-    border: 1px solid #cccccc;
-    padding: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
     margin-bottom: 20px;
 }
 
-/* Testimonial Text */
-.text {
-    margin: 0;
-    font-size: 16px;
-}
-
-/* Author Name */
 .author {
     text-align: right;
     font-style: italic;
-    margin-top: 10px;
 }
+
